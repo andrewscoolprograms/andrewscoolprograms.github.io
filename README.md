@@ -7,3 +7,4 @@
 1. [Cactpot Solver With Steps](https://andrewscoolprograms.github.io/programs/cactpotSolverWithAdvancedSteps) shows the algorithm used to determine which square to click on in the [mini cactpot game](https://na.finalfantasyxiv.com/lodestone/playguide/contentsguide/goldsaucer/cactpot/) from Final Fantasy 
 1. [Peg Solitaire Game Play](https://andrewscoolprograms.github.io/programs/marbleSolitaireGamePlay) allows you to play the [English peg solitaire game](https://en.wikipedia.org/wiki/Peg_solitaire) 
 1. [Marble Solitaire Game Solver](https://andrewscoolprograms.github.io/programs/marbleSolitaireGameSolver) shows the algorithm used to solve the the [English peg solitaire game](https://en.wikipedia.org/wiki/Peg_solitaire) 
+1. [Sudoku Solver](https://andrewscoolprograms.github.io/programs/sudokuSolver) Solves any Sudoku puzzle
