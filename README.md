@@ -10,3 +10,4 @@
 1. [Sudoku Solver](https://andrewscoolprograms.github.io/programs/sudokuSolver) Solves any Sudoku puzzle
 1. [Sudoku Solver With Steps](https://andrewscoolprograms.github.io/programs/sudokuSolverWithSteps) Solves any Sudoku puzzle and displays the steps taken to solve the puzzle
 1. [426 Breathing](https://andrewscoolprograms.github.io/programs/426Breathing) Breathing technique with 4 second breathing in, 2 second hold, and 6 seconds out.
+1. [478 Breathing](https://andrewscoolprograms.github.io/programs/426Breathing) Breathing technique with 4 second breathing in, 7 second hold, and 8 seconds out.
