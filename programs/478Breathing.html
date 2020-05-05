@@ -1,0 +1,30 @@
+<html>
+<center><h1><p id = "heh">inhale</p></h1>
+<h1><p id = "time">4</p></h1></center>
+</html>
+<script>
+var x = 0
+var inhale = 4;
+var hold = 7;
+var exhale = 8;
+var y = inhale;
+  setInterval(function() {
+    y--;
+    if (x == inhale - 1){
+      document.getElementById("heh").innerHTML = "hold";
+      y = hold;
+    }
+    else if (x == inhale + hold - 1){
+      document.getElementById("heh").innerHTML = "exhale";
+      y = exhale;
+    }
+    else if (x == inhale + hold + exhale - 1){
+      document.getElementById("heh").innerHTML = "inhale";
+      y = inhale;
+      x = -1;
+    }
+    x++;
+    document.getElementById("time").innerHTML = y;
+    
+  }, 1000);
+</script>
